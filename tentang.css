@@ -1,0 +1,27 @@
+body {
+  background-color: chocolate;
+  background-image: url(ccccc.jpg);
+  background-size: cover;
+}
+.a {
+  background-color: black;
+}
+.b {
+  display: flex;
+  color: white;
+  text-align: center;
+  padding-left: 550px;
+}
+.d {
+  text-align: center;
+}
+.e {
+  text-align: center;
+  margin: 50px;
+  text-align: justify;
+}
+.f {
+  color: black;
+  padding: 5px;
+  padding-left: 1150px;
+}
