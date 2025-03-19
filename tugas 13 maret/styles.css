@@ -1,0 +1,48 @@
+body {
+  background-image: url(WALLPAPERS.jpg);
+  background-size: cover;
+}
+.kepala {
+  background-color: chocolate;
+}
+.navigasi {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1200px;
+}
+.lis-menu {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+}
+li {
+  margin: 15px;
+  margin-top: 40px;
+  color: white;
+  background-size: cover;
+}
+.section1 {
+  color: aliceblue;
+  margin-top: 50px;
+  padding-left: 300px;
+}
+.logo {
+  text-align: center;
+  padding-top: 10px;
+  padding-left: 40px;
+}
+
+.teks1 {
+  font-size: 50px;
+  margin-bottom: 10px;
+  padding-top: 20px;
+  
+}
+.teks2 {
+  font-size: 20px;
+}
+.beli {
+color: black;
+background-color: white;
+padding: 5px;
+}
